@@ -1,3 +1,4 @@
 [submodule "bezerk"]
 	path = bezerk
 	url = https://github.com/ewlahay/Bezerk.git
+	branch = master
